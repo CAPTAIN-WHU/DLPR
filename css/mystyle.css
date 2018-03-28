@@ -1,4 +1,5 @@
 p {font-size: 17px;
+  /* font-family: 'Times New Roman', Times, serif; */
 }
 td {text-align: center; }
 /* figcaption {text-align: center; position: inherit;} */
@@ -13,11 +14,10 @@ th:nth-child(3), td:nth-child(3){border-right: 2px solid #ddd}
     color:red;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 .jumbotron {
-    /* background: url('../ICPR_logo2.jpg'); */
-    /* background-size: cover;
-    height:"170";
-    align:"center"; */
+    background: url('../DLPR_logo3.jpg');
+    background-size: cover;
     
     margin-top: 50px;
     margin-bottom: 20px;
